@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn2{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-size: 15px;
+}
+
+.btn-container{
+    display: flex;
+    padding: 20px;
+    gap: 10px;
+    justify-content: end;
+    margin-left: 150px;
+    margin-top: -5px;
+    /* justify-content: end;
+    margin: 20px; */
+    
+}
+
+.navbar-text{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    /* font-family; */
+    margin-left: 150px; 
+}
+
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration:underline;
+}
+.icon{
+    display: none;
+}
+
+
+@media screen and(max-width:1024px){
+.flex.responsive {position:relative;}
+.flex.responsive .icon{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+} */ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Nav{
+    padding: 20px 50px;
+}
+
+.logo{
+    margin-right: 200px;
+}
+.link{
+    margin-right: 20px;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+}
+.search{
+    margin-left: 150px;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 100px;
+    outline: 2px solid green;
+    border: 2px solid white;
+}
+    
+
+.nav-btn{
+    padding: 15px 40px;
+    margin-left: 150px;
+    background-color: red;
+    border: none;
+    border-radius: 25px;
+    color: white;
+}
+.nav-btn:hover{
+    border: 2px solid white;
+    outline: 2px solid red;
+}
+
+.gigo{
+    padding: 10px 20px;
+    margin-left: 20px;
+    border:1px solid black;
+    border-radius: 25px;
+    color:darkslategrey;
+}
+.main{
+padding: 0px 150px;
+}
+
+.main2{
+    font-size: 60px;
+    margin-bottom: 30px;
+      
+}
+.main3{
+    font-size: 20px;
+}
+.bigi{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}  */
